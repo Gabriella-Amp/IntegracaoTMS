@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "Services.TMS.Duplicata": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
